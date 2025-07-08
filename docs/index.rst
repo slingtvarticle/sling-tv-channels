@@ -6,7 +6,7 @@ How Do I Know What Channels Are on Sling TV?
    :caption: Contents:
 Explore the full range of Sling TV channels, including entertainment, sports, and news options. Find the right lineup for your viewing needs.
  
-.. image:: https://sling-tv-packages.readthedocs.io/en/latest/_images/help.jpg
+.. image:: help.jpg
    :alt: Sling TV
    :width: 400px
    :align: center
